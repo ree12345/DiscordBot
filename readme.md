@@ -8,6 +8,8 @@ Features:
 2. if a user sends '!google MESSAGE', and it'll reply with the top five links
 3. if a user sends '!recent MESSAGE', and it'll reply with a list of similar searches in the user's history
 
+Required:
+
 1. Install reqirements.txt
 
 2. Create Table Name:searches
